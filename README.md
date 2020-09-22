@@ -11,6 +11,7 @@ A simple Man in the Middle Firewall that can be used to block access to websites
 
 # Installation: (with Aptitude and Y.U.M.)
 
+<pre>
 sudo apt install python3 git -y
 sudo yum -y install python3 git
 cd
@@ -19,6 +20,7 @@ git clone https://github.com/eoksum/mitmfirewall
 cd mitmfirewall
 chmod 755 app.py
 ./app.py
+</pre>
 
 Then you can also move app.py to /bin/mitmfirewall to access it directly.
 Usage is simple, you will know how to use it when you run it.
