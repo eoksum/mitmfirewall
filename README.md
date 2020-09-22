@@ -1,9 +1,11 @@
+<pre>
 ___  ____ _              ______ _                        _ _ 
 |  \/  (_) |             |  ___(_)                      | | |
 | .  . |_| |_ _ __ ___   | |_   _ _ __ _____      ____ _| | |
 | |\/| | | __| '_ ` _ \  |  _| | | '__/ _ \ \ /\ / / _` | | |
 | |  | | | |_| | | | | | | |   | | | |  __/\ V  V / (_| | | |
 \_|  |_/_|\__|_| |_| |_| \_|   |_|_|  \___| \_/\_/ \__,_|_|_|
+</pre>
 
 A simple Man in the Middle Firewall that can be used to block access to websites or redirect hostnames, IP addresses to other addresses.
 
