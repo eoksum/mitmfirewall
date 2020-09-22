@@ -29,5 +29,5 @@ Usage is simple, you will know how to use it when you run it.
 Only use this for educational purposes and do not use this to distrupt anyones access to any content.
 I am denying any responsibility for the any damage you can possibly cause with this small script of mine.
 
-Thanks
+Thanks,<br>
 Emrecan OKSUM
